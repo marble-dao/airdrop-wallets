@@ -1,5 +1,5 @@
 # airdrop-wallets
-This repository contains the list of wallets for all Marble DAO Airdrop
+This repository contains the list of wallets for all Marble DAO Airdrops
 
 In the files, you can find the list of addresses and amounts. The amount have decimals included. Marble has 3 decimals, Block has 6 decimals.
 Example:
